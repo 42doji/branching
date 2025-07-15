@@ -37,3 +37,49 @@
 2025-07-13 10:50:58 -  * Restarting with stat
 2025-07-13 10:50:58 -  * Debugger is active!
 2025-07-13 10:50:58 -  * Debugger PIN: 893-695-261
+2025-07-15 12:44:32 - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:5000
+ * Running on http://10.14.1.8:5000
+2025-07-15 12:44:32 - [33mPress CTRL+C to quit[0m
+2025-07-15 12:44:32 -  * Restarting with stat
+2025-07-15 12:44:32 -  * Debugger is active!
+2025-07-15 12:44:33 -  * Debugger PIN: 678-118-618
+2025-07-15 12:45:04 - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:5000
+ * Running on http://10.14.1.8:5000
+2025-07-15 12:45:04 - [33mPress CTRL+C to quit[0m
+2025-07-15 12:45:04 -  * Restarting with stat
+2025-07-15 12:45:04 -  * Debugger is active!
+2025-07-15 12:45:04 -  * Debugger PIN: 678-118-618
+2025-07-15 12:45:09 - 127.0.0.1 - - [15/Jul/2025 12:45:09] "GET / HTTP/1.1" 200 -
+2025-07-15 12:45:09 - 127.0.0.1 - - [15/Jul/2025 12:45:09] "GET /static/david.jpg HTTP/1.1" 200 -
+2025-07-15 12:45:10 - 127.0.0.1 - - [15/Jul/2025 12:45:10] "[33mGET /favicon.ico HTTP/1.1[0m" 404 -
+2025-07-15 12:45:18 - Lang: ko, Text: 안녕하세요 나는 비빔밥인간 입니다
+2025-07-15 12:45:18 - 127.0.0.1 - - [15/Jul/2025 12:45:18] "POST /submit?lang=ko HTTP/1.1" 200 -
+2025-07-15 12:45:18 - 127.0.0.1 - - [15/Jul/2025 12:45:18] "[33mGET /favicon.ico HTTP/1.1[0m" 404 -
+2025-07-15 12:58:10 - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:8080
+ * Running on http://10.14.1.8:8080
+2025-07-15 12:58:10 - [33mPress CTRL+C to quit[0m
+2025-07-15 12:58:10 -  * Restarting with stat
+2025-07-15 12:58:10 -  * Debugger is active!
+2025-07-15 12:58:10 -  * Debugger PIN: 678-118-618
+2025-07-15 12:58:19 - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:8080
+ * Running on http://10.14.1.8:8080
+2025-07-15 12:58:19 - [33mPress CTRL+C to quit[0m
+2025-07-15 12:58:19 -  * Restarting with stat
+2025-07-15 12:58:19 -  * Debugger is active!
+2025-07-15 12:58:19 -  * Debugger PIN: 678-118-618
+2025-07-15 12:58:46 - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:8080
+ * Running on http://10.14.1.8:8080
+2025-07-15 12:58:46 - [33mPress CTRL+C to quit[0m
+2025-07-15 12:58:46 -  * Restarting with stat
+2025-07-15 12:58:46 -  * Debugger is active!
+2025-07-15 12:58:46 -  * Debugger PIN: 678-118-618
